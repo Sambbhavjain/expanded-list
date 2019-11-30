@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_a032622d4bfdf22ae8ea78a7c873594c27f1a4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_08da9133ce5b5708c4e24e396d1acabbba494b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_42380ef920e6c7f3beaaad2cd7d568a4f4ab9829.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_d2dce8260c5eda5873936194a0046f773167594d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_4e363cb52ae84b5827bcfc4c321803abd4f50bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_5e2f98611d2c13e008c01d4bd44483d30a4aec12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_3f6a13d1f7c6590637b504b9f70802eb479a43ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_6e0d70a4ae541cccdb790c8176dfbe8237fd2d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_f0b0217fad844adc54b559f7ded96e816a4e1fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_067084df43df9420986c135095608f31e2dc3358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_ecd7b308db119a2e4ad4299e3bad50f1015a672c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_b131776f504dcc5c6d24cda061c24c2f4c0038ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="29.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/mridule/AndroidStudioProjects/fragments/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_219b716f5e5aefaac2c30281ee5d413859231bb6.jar" />
+    </item>
+
+</items>
